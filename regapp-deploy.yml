@@ -1,7 +1,7 @@
 apiVersion: apps/v1 
 kind: Deployment
 metadata:
-  name: valaxy-regapps
+  name: valaxy-regapp
   labels: 
      app: regapp
 
