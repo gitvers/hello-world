@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: valaxy-service
   labels:
-    app: regapp 
+    app: regapps
 spec:
   selector:
     app: regapp 
