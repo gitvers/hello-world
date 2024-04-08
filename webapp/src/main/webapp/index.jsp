@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> this is the  Register for DevOps  </h1>
+    <h1> this is the  Register for DevOps world </h1>
     <p> this data  to create an account</p>
     <hr>
      
